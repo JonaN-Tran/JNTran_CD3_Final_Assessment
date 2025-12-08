@@ -8,8 +8,6 @@
 ## _Purpose_
 
 This project focuses on the functionality of a keypad, MPU6050, and LCD screen connected to the ESP32-S3 and communicating through the I2C bus of the ESP32-S3. It is expected that the data read from the MPU6050 sensor will be displayed on the LCD screen when the keycode is correct.
-This is the simplest buildable example. The example is used by command `idf.py create-project`
-that copies the project to user specified path and set it's name. For more information follow the [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project)
 
 ## _Component Registries used_
 
