@@ -28,16 +28,16 @@ that copies the project to user specified path and set it's name. For more infor
 - 1x Green LED
 - 2x 2N7000 MOSFET
 
-## Folder contents
+## _Folder contents_
 
-The project **Programming 3 Project** contains:
-- One source file in C language [main.c](main/main.c). The file is located in folder [main](main).
+The project **Programming 3 Project** [main](main) foldier contains:
+- One source file in C language [main.c](main/main.c).
 - One header file in C language [keypad_mpu6050.h](main/keypad_mpu6050.h).
 - One implementation file in C language [keypad_mpu6050.h](main/keypad_mpu6050.c)
 
 It also contains the component registry folders:
-- [esp-idf-lib/i2cdev v.2.0.8](managed_components/esp-idf-lib__i2cdev/)
-- [iamflinks/i2c_lcd_pcf8574 v1.0.1](managed_components/iamflinks__i2c_lcd_pcf8574/)
+- [esp-idf-lib__i2cdev](managed_components/esp-idf-lib__i2cdev/)
+- [iamflinks__i2c_lcd_pcf8574](managed_components/iamflinks__i2c_lcd_pcf8574/)
 
 ESP-IDF projects are built using CMake. The project build configuration is contained in `CMakeLists.txt`
 files that provide set of directives and instructions describing the project's source files and targets
