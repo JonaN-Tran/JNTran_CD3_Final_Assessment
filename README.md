@@ -12,7 +12,7 @@ This project focuses on the functionality of a keypad, MPU6050, and LCD screen c
 ## _Component Registries used_
 
 - [esp-idf-lib/i2cdev v.2.0.8](https://components.espressif.com/components/esp-idf-lib/i2cdev/versions/2.0.8/readme)
-- [iamflinks/i2c_lcd_pcf8574 v1.0.1](https://components.espressif.com/components/iamflinks/i2c_lcd_pcf8574/versions/1.0.1/api?language=en#function-lcd_set_backlight)
+- [iamflinks/i2c_lcd_pcf8574 v1.0.1](https://components.espressif.com/components/iamflinks/i2c_lcd_pcf8574/versions/1.0.1/readme?language=en)
 
 ## _Components used_
 
@@ -28,7 +28,7 @@ This project focuses on the functionality of a keypad, MPU6050, and LCD screen c
 
 ## _Folder contents_
 
-The project **Programming 3 Project** [main](main) foldier contains:
+The project **Programming 3 Project** [main](main) folder contains:
 - One source file in C language [main.c](main/main.c).
 - One header file in C language [keypad_mpu6050.h](main/keypad_mpu6050.h).
 - One implementation file in C language [keypad_mpu6050.c](main/keypad_mpu6050.c).
