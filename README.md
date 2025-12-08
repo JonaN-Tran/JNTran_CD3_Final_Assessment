@@ -31,7 +31,7 @@ This project focuses on the functionality of a keypad, MPU6050, and LCD screen c
 The project **Programming 3 Project** [main](main) foldier contains:
 - One source file in C language [main.c](main/main.c).
 - One header file in C language [keypad_mpu6050.h](main/keypad_mpu6050.h).
-- One implementation file in C language [keypad_mpu6050.h](main/keypad_mpu6050.c)
+- One implementation file in C language [keypad_mpu6050.c](main/keypad_mpu6050.c)
 
 It also contains the component registry folders:
 - [esp-idf-lib__i2cdev](managed_components/esp-idf-lib__i2cdev/)
