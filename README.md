@@ -26,6 +26,11 @@ This project focuses on the functionality of a keypad, MPU6050, and LCD screen c
 - 1x Green LED
 - 2x 2N7000 MOSFET
 
+## _Software used_
+- Visual Studio Code (v1.94.1)
+- ESP-IDF Extension (v1.10.2)
+- ESP-IDF v5.1.6
+
 ## _Folder contents_
 
 The project **Programming 3 Project** [main](main) folder contains:
